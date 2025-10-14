@@ -9,8 +9,6 @@
 ## 🧠 Justificativa das Decisões (Decisions Made)
 
 
-Justificativa decisões:
-
 **Armazenamento de Dados e Estrutura:**
 - Justificativa: Armazenamento feito por lista Python global para manter o código em único arquivo (app.py).
 
